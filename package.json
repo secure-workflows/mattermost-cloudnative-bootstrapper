@@ -47,7 +47,7 @@
   "homepage": "https://github.com/nickmisasi/mattermost-cloudnative-bootstrapperboard#readme",
   "devDependencies": {
     "concurrently": "^8.2.2",
-    "electron": "^29.0.1",
+    "electron": "^42.11.16",
     "electron-builder": "^24.12.0"
   }
 }
